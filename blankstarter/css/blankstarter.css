@@ -1,0 +1,51 @@
+
+/* HTML */
+
+html,body { height: 100%; }
+
+p { margin-bottom:1.5em; }
+
+
+/* Misc components - based on Island theme - https://github.com/kristjanjansen/island */
+
+div.admin .left, div.admin .right {
+  float: none;
+  width: 100%;
+  margin: 0;
+} 
+div.messages {
+  background-image: none;
+  padding: 1em;
+  border: none;
+  margin-bottom: 1.5em;
+}
+ul.primary.tabs li a {
+  padding: 0.5em 1em;
+}
+ul.primary {
+  line-height: 2em;
+  margin-bottom: 1.5em;
+}
+.item-list ul li {
+  margin: 0 5px 0 0;
+}
+ul.inline li {
+  padding: 0 0.5em 0 0;
+}
+.action-links {
+  margin-bottom: 1.5em;
+  list-style-type: none;
+}
+.action-links li {
+  display: inline;
+}
+.tabledrag-toggle-weight-wrapper {
+  display: none;
+}
+.vertical-tabs .summary {
+  font-size: 0.9em;
+}
+.vertical-tabs a .summary {
+  color: #888;
+  font-weight: normal;
+}

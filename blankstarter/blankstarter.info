@@ -1,0 +1,8 @@
+name = blankstarter
+core = 7.x
+engine = phptemplate
+
+stylesheets[all][] = css/blankstarter.css
+stylesheets[all][] = css/ericMeyerReset.css
+
+scripts[] = js/html5shiv.js

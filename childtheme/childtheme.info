@@ -1,0 +1,8 @@
+name = childtheme
+core = 7.x
+engine = phptemplate
+
+base theme = blankstarter
+
+stylesheets[all][]   = css/style.css
+scripts[] = js/script.js
